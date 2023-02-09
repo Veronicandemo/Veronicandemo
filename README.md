@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Veronica Ndemo, a Front-end developer 👨‍💻 working remotely 🚀</div>  
+### <div align="center">I'm Veronica Ndemo, a Front-end developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently in Alx studying Software Engineering  
+- 🔭 I’m currently a software Engeneering stundent 
   
 
 - 🌱 I’m currently learning Python and JavaScript  
