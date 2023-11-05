@@ -6,16 +6,16 @@
 ### <div align="center">I'm Veronica Ndemo, a Front-end developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently a software Engeneering stundent 
+- 🔭 Junior Frontend Developer with a passion for creating user-friendly web experiences using React
   
 
-- 🌱 I’m currently learning Python and JavaScript  
+- 🌱 Continuously advancing my skills in Vue, JavaScript, and React 
   
 
-- 👩‍💻 An aspiring software developer eager to join the tech community  
+- 🚀 Enthusiastic about contributing to the tech community and exploring innovative solutions 
   
 
-- ⚡ Fun fact:  I love smiling  
+- ⚡ Fun fact: I believe in the power of a smile to brighten any day!
   
 
 <br/>  
